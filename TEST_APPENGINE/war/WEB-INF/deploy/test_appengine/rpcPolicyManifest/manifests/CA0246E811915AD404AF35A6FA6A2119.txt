@@ -1,0 +1,2 @@
+serviceClass: fr.pbo.client.GreetingService
+path: D788D976CF285A43A97F8F4038066836.gwt.rpc
